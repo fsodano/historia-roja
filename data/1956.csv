@@ -1,0 +1,27 @@
+date,competition,home_team,away_team,home_score,away_score,result
+01/11/1956,Primera División,Independiente,Rosario Central,0,1,LOSS
+02/09/1956,Primera División,River Plate,Independiente,4,1,LOSS
+02/12/1956,Primera División,Independiente,Vélez Sarsfield,1,1,DRAW
+03/06/1956,Primera División,Chacarita Juniors,Independiente,1,2,WIN
+04/11/1956,Primera División,Estudiantes de La Plata,Independiente,1,2,WIN
+05/08/1956,Primera División,Boca Juniors,Independiente,1,0,LOSS
+09/09/1956,Primera División,Independiente,Newell’s Old Boys,3,1,WIN
+12/08/1956,Primera División,Independiente,Huracán,3,0,WIN
+13/05/1956,Primera División,Independiente,Lanús,5,3,WIN
+14/10/1956,Primera División,San Lorenzo,Independiente,0,2,WIN
+15/04/1956,Primera División,Independiente,River Plate,0,1,LOSS
+16/09/1956,Primera División,Gimnasia y Esgrima La Plata,Independiente,0,0,DRAW
+17/06/1956,Primera División,Independiente,Tigre,0,0,DRAW
+18/11/1956,Primera División,Independiente,Boca Juniors,1,0,WIN
+20/05/1956,Primera División,Argentinos Juniors,Independiente,1,1,DRAW
+21/10/1956,Primera División,Independiente,Chacarita Juniors,3,0,WIN
+22/04/1956,Primera División,Newell’s Old Boys,Independiente,3,1,LOSS
+22/07/1956,Primera División,Independiente,Estudiantes de La Plata,2,0,WIN
+23/09/1956,Primera División,Independiente,Racing Club,2,2,DRAW
+25/11/1956,Primera División,Huracán,Independiente,1,1,DRAW
+26/08/1956,Primera División,Vélez Sarsfield,Independiente,2,1,LOSS
+27/05/1956,Primera División,Independiente,San Lorenzo,1,2,LOSS
+28/04/1956,Primera División,Independiente,Gimnasia y Esgrima La Plata,1,4,LOSS
+28/10/1956,Primera División,Tigre,Independiente,2,3,WIN
+29/07/1956,Primera División,Independiente,Ferro Carril Oeste,2,1,WIN
+30/09/1956,Primera División,Lanús,Independiente,2,0,LOSS

@@ -1,0 +1,35 @@
+============================================================
+Independiente Match Scraper (1891-2019)
+============================================================
+Scraping 129 years...
+
+[1/129] Year 1891... found 0, saved 0
+[2/129] Year 1892... found 0, saved 0
+[3/129] Year 1893... found 0, saved 0
+[4/129] Year 1894... found 0, saved 0
+[5/129] Year 1895... found 0, saved 0
+[6/129] Year 1896... found 0, saved 0
+[7/129] Year 1897... found 0, saved 0
+[8/129] Year 1898... found 0, saved 0
+[9/129] Year 1899... found 0, saved 0
+[10/129] Year 1900... found 0, saved 0
+[11/129] Year 1901... found 0, saved 0
+[12/129] Year 1902... found 0, saved 0
+[13/129] Year 1903... found 0, saved 0
+[14/129] Year 1904... found 0, saved 0
+[15/129] Year 1905... found 0, saved 0
+[16/129] Year 1906... found 0, saved 0
+[17/129] Year 1907... found 0, saved 0
+[18/129] Year 1908... found 0, saved 0
+[19/129] Year 1909... found 0, saved 0
+[20/129] Year 1910... found 0, saved 0
+[21/129] Year 1911... found 0, saved 0
+[22/129] Year 1912... found 0, saved 0
+[23/129] Year 1913... found 0, saved 0
+[24/129] Year 1914... found 0, saved 0
+[25/129] Year 1915... found 0, saved 0
+[26/129] Year 1916... found 0, saved 0
+[27/129] Year 1917... found 0, saved 0
+[28/129] Year 1918... found 0, saved 0
+[29/129] Year 1919... found 0, saved 0
+[30/129] Year 1920... 

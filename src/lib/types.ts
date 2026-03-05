@@ -1,5 +1,7 @@
 export interface Match {
   id: string;
+  date: string;
+  competition: string;
   homeTeam: string;
   awayTeam: string;
   homeGoals: number;
@@ -7,6 +9,7 @@ export interface Match {
   isHome: boolean;
   result: 'W' | 'L' | 'D';
   opponent: string;
+  year: number | null;
 }
 
 export interface MatchStats {
